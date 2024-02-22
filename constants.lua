@@ -5,3 +5,5 @@ WIN_HEIGHT = 640 -- Hauteur fenêtre
 BRICKS_PER_LINE = 7
 BRICKS_PER_COLUMN = 6
 NBR_LIVES = 3
+DEFAULT_SPEED_BX = 130 -- Vitesse horizontale
+DEFAULT_SPEED_BY = 335
